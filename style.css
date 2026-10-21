@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+}
+li {
+    background-color: beige;
+    border: 4px solid black;
+    margin: 0;
+    padding: 5px;
+    font-weight: bold;
+}
